@@ -17,10 +17,10 @@ public class LucesDecorar extends BombasDecorar {
         super.colocar.colocar("CHIRIVISCO");
         this.addLuces(super.colocar);
         
-        super.colocar.colocar("ABIES");
+        super.colocar.colocar("ACEBO");
         this.addLuces(super.colocar);
         
-        super.colocar.colocar("ACEBO");
+        super.colocar.colocar("THUYA");
         this.addLuces(super.colocar);
         
         super.colocar.colocar("PICEA");
