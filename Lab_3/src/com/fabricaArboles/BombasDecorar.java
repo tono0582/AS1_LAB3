@@ -17,10 +17,10 @@ public class BombasDecorar extends ArbolNavidad {
         super.colocar.colocar("CHIRIVISCO");
         this.addBombas(super.colocar);
         
-        super.colocar.colocar("ABIES");
+        super.colocar.colocar("ACEBO");
         this.addBombas(super.colocar);
         
-        super.colocar.colocar("ACEBO");
+        super.colocar.colocar("THUYA");
         this.addBombas(super.colocar);
         
         super.colocar.colocar("PICEA");
