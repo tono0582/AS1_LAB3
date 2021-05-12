@@ -11,7 +11,7 @@ public class BombasDecorar extends ArbolNavidad {
     }
     
     public void colocar(){
-        super.colocar.colocar("PINABETO");
+        super.colocar.colocar("PINABETE");
         this.addBombas(super.colocar);     
         
         super.colocar.colocar("CHIRIVISCO");
